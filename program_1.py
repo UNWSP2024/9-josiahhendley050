@@ -13,7 +13,7 @@ def count_file_lines():
         count += 1
 
     file.close()
-    print("Number of names in the file:", count)
+    print(count)
 
   
 
