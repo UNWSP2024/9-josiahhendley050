@@ -13,7 +13,8 @@ def count_file_lines():
         count += 1
 
     file.close()
-    print(count)
+    print(str(count))
+
 
   
 
