@@ -20,7 +20,7 @@ def sum_numbers_from_file():
             total += int(line)
 
         file.close()
-        print("Total of the numbers:", total)
+        print(total)
 
     except IOError:
         print("An error occurred while trying to read the file.")
