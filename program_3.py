@@ -1,6 +1,6 @@
 # Program #3: Average Numbers
-#Josiah Hendley
-#3/26/26
+# Josiah Hendley
+# 3/26/26
 # Assume a file containing a series of integers is named numbers.txt and exists on the computer's disk.
 # (please use the provided numbers.txt)
 # Write a program that reads all of the numbers stored in the file and calculates their total.  
