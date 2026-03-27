@@ -1,6 +1,6 @@
 # Program #1: Item Counter
-#Josiah Hendley
-#3/26/26
+# Josiah Hendley
+# 3/26/26
 # Assume a file containing a series of names (as strings) is named names.txt 
 # (Use the included example file names.txt) and exists on the computer's disk.
 # Write a program that displays the number of names that are stored in the file.
